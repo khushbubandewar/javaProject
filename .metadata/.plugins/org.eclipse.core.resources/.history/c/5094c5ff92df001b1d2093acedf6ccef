@@ -1,0 +1,14 @@
+package eonClass;
+
+import java.util.Scanner;
+
+public class CalculateSalary {
+
+	public static void main(String[] args) {
+		Scanner sc = new Scanner(System.in);
+		System.out.println("Enter the salary Amt : ");
+		int sal = sc.nextInt();
+		
+	}
+
+}
